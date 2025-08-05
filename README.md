@@ -1,6 +1,6 @@
 I wanted to make something modern, clean, and eye-catching — something that feels alive. I opened my code editor, wrote basic HTML structure, and step by step added styles using CSS.
 
-![fassin](https://github.com/user-attachments/assets/a19756af-a94f-4704-8432-37ac0969a741)
+![Fasion - Web Design](https://github.com/user-attachments/assets/e5c1b0d1-8364-4d28-923c-046d5a5ab117)
 
 This project may look simple, but it taught me a very important lesson:
 "You don’t need complex tools to start. You just need to start."
